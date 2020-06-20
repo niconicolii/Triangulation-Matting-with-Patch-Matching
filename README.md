@@ -29,5 +29,12 @@ python viscomp.py --compositing \
 
 
 ## Result
+Resulting alpha channel image:
+<img text-align="center" src="cup/alpha.jpg">
+
+Resulting composition with blank background:
+<img text-align="center" src="cup/comp.jpg">
+
+
 see more results here:
 [report](report.pdf)
